@@ -112,8 +112,8 @@ This project is for **educational purposes only** and should not be used for rea
 
 ## 👥 Team
 
-* Team Name: *[CyberKnightsz]*
-* Members: *[Vaidik Choudhary, Aditya Dhuppe, Ayush Dhule]* 
+* Team Name: *CyberKnightsz*
+* Members: *Vaidik Choudhary, Aditya Dhuppe, Ayush Dhule* 
 
 ---
 
